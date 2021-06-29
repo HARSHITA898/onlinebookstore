@@ -82,7 +82,7 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url as: ```https://github.com/shashirajraja/onlinebookstore.git```> Select J2EE Branch > Next > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url as: ```https://github.com/HARSHITA898/onlinebookstore.git```> Select J2EE Branch > Next > Next > Finish
 
 Step 2: Go inside ```OnlineBookStore > constants > IDatabase.java``` and update the value of USER_NAME and PASSWORD according to your installed mysql admin user credentials
 
